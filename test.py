@@ -5,4 +5,6 @@
 for i in range(5):
     for k in range(4):
         for index in range(3):
-            print(i, k, index)
+            for b in range(2):
+                print(i, k, index,b)
+
